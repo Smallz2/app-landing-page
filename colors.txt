@@ -1,0 +1,4 @@
+White: #ffffff
+White 2: #fcfcfc
+White 3: #f9f9f9
+Green: #2bc86d
